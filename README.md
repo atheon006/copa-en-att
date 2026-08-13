@@ -24,7 +24,7 @@
 
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=atheon006&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=bebec3&disable_animations=true)
 
-![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=atheon006&layout=compact&theme=transparent&disable_animations=true)
+![WakaTime stats](https://git-stats-plum.vercel.app/api/wakatime?username=wakatime.com/@&layout=compact&theme=transparent&disable_animations=true)
 
 </div>
 
